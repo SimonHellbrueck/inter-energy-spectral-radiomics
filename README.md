@@ -1,6 +1,6 @@
 # Inter-Energy Spectral Radiomics
 
-This repository contains the function `generate_inter_energy_features` used in the paper:
+This repository contains the code used in the paper:
 
 ###
 
